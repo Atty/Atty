@@ -16,4 +16,4 @@ Commercial experience:<br>  Technologies: Synapse (Istio service mesh)<br>  Appl
 <img src="https://www.memedroid.com/memes/tag/programming/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Atty&icon=8&color=1)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Atty&icon=8&color=1)](https://visitcount.itsvg.in) -->
